@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  app:
+    image: myimage
+    ports:
+    - 3000:3000
+    volumes:
+    - ./src/:/app/src/
+    # docker build -p 3000:3000 -v $(pwd)/src:/app/src myimage . linux

@@ -1,0 +1,8 @@
+[
+    { "name":"'Jan Kowalski'","email":"25656@student.pl", "grupa": "'E67-0K'", "opis": "'szukam pary do grupy 2 os.'", "tagi": "'ucisw, para'", "subjects": "'ucisw'"},
+    { "name":"'Jozef Bolek'","email":"25636@student.pl", "grupa": "'E98-8K'", "opis": "'szukam pary do grupy  3 os.'", "tagi": "'po, para'", "subjects": "'po'"},
+    { "name":"'Lisa Lorak'","email":"24656@student.pl", "grupa": "'E76-0K'", "opis": "'szukam pary  do grupy 5 os.'", "tagi": "'ucisw, para'", "subjects": "'ucisw'"},
+    { "name":"'Kim Jenny'","email":"25659@student.pl", "grupa": "'E67-0K'", "opis": "'szukam pary  do grupy 3 os.'", "tagi": "'so2, para'", "subjects": "'so2'"},
+    { "name":"'Marek Kowalski'","email":"25629@student.pl", "grupa": "'E67-2K'", "opis": "'szukam pary  do grupy 2 os.'", "tagi": "'ucisw, para'", "subjects": "'ucisw'"},
+    { "name":"'Julia Kobarevich'","email":"25159@student.pl", "grupa": "'E98-8K'", "opis": "'szukam pary  do grupy 4 os.'", "tagi": "'po, para'", "subjects": "'po'"}
+]

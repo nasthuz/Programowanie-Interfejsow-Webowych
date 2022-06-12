@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@material/button": "^13.0.0",
+    "@material/textfield": "^13.0.0",
+    "bootstrap": "^4.6.1",
+    "mdbootstrap": "^4.20.0",
+    "react-bootstrap": "^1.6.4",
+    "react-bootstrap-form": "^0.1.4-beta6",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-router-dom": "^6.3.0"
+  }
+}
